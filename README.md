@@ -10,6 +10,7 @@ short_description: AI vs Human Voice Detection
 ---
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+Our commit repo for final submission: https://huggingface.co/spaces/arshan123/voice-detection-api/tree/main
 
 ## Reducing latency on Hugging Face Spaces
 
